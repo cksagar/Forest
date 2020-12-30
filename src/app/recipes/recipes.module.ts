@@ -12,13 +12,13 @@ import { RecipeEditComponent } from './recipe-edit/recipe-edit.component';
 
 @NgModule({
     declarations: [
+        
         RecipesComponent,
         RecipeDetailComponent,
         RecipeListComponent,
         RecipeItemComponent,
         RecipeEditComponent,
         RecipesStartComponent
-
     ],
     imports: [
         RouterModule,
